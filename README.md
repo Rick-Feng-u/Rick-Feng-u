@@ -7,7 +7,7 @@
   </a>
 </div>
 
-#Hi there 👋 I'm Zhi Lin(Rick) Feng
+<img src="https://komarev.com/ghpvc/?username=Rick-Feng-u&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Rick-Feng-u/Rick-Feng-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
