@@ -17,9 +17,10 @@
 ---
 
 ### :fire: Check out my Github
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-Feng-u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rick-Feng-u&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-Feng-u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
